@@ -1,0 +1,10 @@
+C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\bin\Debug\PersonQuiz.exe.config
+C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\bin\Debug\PersonQuiz.exe
+C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\bin\Debug\PersonQuiz.pdb
+C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\obj\Debug\PersonQuiz.csproj.AssemblyReference.cache
+C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\obj\Debug\PersonQuiz.Form1.resources
+C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\obj\Debug\PersonQuiz.Properties.Resources.resources
+C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\obj\Debug\PersonQuiz.csproj.GenerateResource.cache
+C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\obj\Debug\PersonQuiz.csproj.CoreCompileInputs.cache
+C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\obj\Debug\PersonQuiz.exe
+C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\obj\Debug\PersonQuiz.pdb
