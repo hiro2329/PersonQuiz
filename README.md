@@ -32,10 +32,12 @@
 ---
 
 ## 💾 설치 및 실행 방법
+- [💾다운로드](https://github.com/hiro2329/PersonQuiz/raw/refs/heads/main/PersonQuiz/bin/Debug.zip)  (압축 해제 후 PersonQuiz.exe 파일 실행)
 
+  또는
+ 
 1. 📥 **프로젝트 다운로드**
    - 이 저장소를 클론하거나 ZIP 파일로 다운로드 후 압축을 풉니다.
-   - [💾다운로드](https://github.com/hiro2329/PersonQuiz/raw/refs/heads/main/PersonQuiz/bin/Debug.zip)  (압축 해제 후 PersonQuiz.exe 파일 실행)
 
 2. 🖥️ **Visual Studio에서 열기**
    - Visual Studio 2017 이상에서 `PersonQuiz.sln` 솔루션 파일을 엽니다.
