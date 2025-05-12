@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
 using System.IO;
+using System.Linq;
 
 namespace PersonQuiz
 {
@@ -25,8 +26,15 @@ namespace PersonQuiz
             quizData = new List<(string, string)>
             {
                 (nameof(Properties.Resources.이정현), "이정현"),
-                (nameof(Properties.Resources.페이커), "페이커"),
-            };
+                (nameof(Properties.Resources.김성훈), "김성훈"),
+                (nameof(Properties.Resources.이승우), "이승우"),
+                (nameof(Properties.Resources.류현진), "류현진"),
+                 (nameof(Properties.Resources.김성훈1), "김성훈"),
+            }; 
+
+            // 리스트 셔플
+            var rand = new Random();
+            quizData = new List<(string, string)>(quizData.OrderBy(x => rand.Next()));
         }
 
         private void DisplayQuestion()
@@ -44,7 +52,11 @@ namespace PersonQuiz
                         throw new Exception($"리소스 '{imageName}'를 찾을 수 없습니다.");
                     }
 
-                    // 리소스가 Byte[]인지 확인
+                    //byte[]: 바이트 배열 → MemoryStream → Bitmap 변환 후 표시
+                    //Bitmap: 바로 표시
+                    //리소스 추가 방식에 따라 타입이 달라질 수 있으므로,
+                    //두 경우 모두 처리하는 것이 안전.
+
                     if (resourceObject is byte[] imageBytes)
                     {
                         using (var ms = new MemoryStream(imageBytes))

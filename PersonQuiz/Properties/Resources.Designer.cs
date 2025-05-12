@@ -63,9 +63,9 @@ namespace PersonQuiz.Properties {
         /// <summary>
         ///   System.Byte[] 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        internal static byte[] 이정현 {
+        internal static byte[] 김성훈 {
             get {
-                object obj = ResourceManager.GetObject("이정현", resourceCulture);
+                object obj = ResourceManager.GetObject("김성훈", resourceCulture);
                 return ((byte[])(obj));
             }
         }
@@ -73,9 +73,39 @@ namespace PersonQuiz.Properties {
         /// <summary>
         ///   System.Byte[] 형식의 지역화된 리소스를 찾습니다.
         /// </summary>
-        internal static byte[] 페이커 {
+        internal static byte[] 김성훈1 {
             get {
-                object obj = ResourceManager.GetObject("페이커", resourceCulture);
+                object obj = ResourceManager.GetObject("김성훈1", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Byte[] 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        internal static byte[] 류현진 {
+            get {
+                object obj = ResourceManager.GetObject("류현진", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Byte[] 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        internal static byte[] 이승우 {
+            get {
+                object obj = ResourceManager.GetObject("이승우", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   System.Byte[] 형식의 지역화된 리소스를 찾습니다.
+        /// </summary>
+        internal static byte[] 이정현 {
+            get {
+                object obj = ResourceManager.GetObject("이정현", resourceCulture);
                 return ((byte[])(obj));
             }
         }

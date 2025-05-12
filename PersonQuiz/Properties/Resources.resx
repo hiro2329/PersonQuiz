@@ -118,10 +118,19 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="김성훈" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\김성훈.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="김성훈1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\김성훈1.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="류현진" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\류현진.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="이승우" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\이승우.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="이정현" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\이정현.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="페이커" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\페이커.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
 </root>
