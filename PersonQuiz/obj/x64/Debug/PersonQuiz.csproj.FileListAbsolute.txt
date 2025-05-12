@@ -1,0 +1,10 @@
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\bin\x64\Debug\PersonQuiz.exe.config
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\bin\x64\Debug\PersonQuiz.exe
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\bin\x64\Debug\PersonQuiz.pdb
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\x64\Debug\PersonQuiz.csproj.AssemblyReference.cache
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\x64\Debug\PersonQuiz.Form1.resources
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\x64\Debug\PersonQuiz.Properties.Resources.resources
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\x64\Debug\PersonQuiz.csproj.GenerateResource.cache
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\x64\Debug\PersonQuiz.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\x64\Debug\PersonQuiz.exe
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\x64\Debug\PersonQuiz.pdb

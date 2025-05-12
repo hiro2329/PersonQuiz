@@ -8,3 +8,13 @@ C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\obj\Debug\PersonQ
 C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\obj\Debug\PersonQuiz.csproj.CoreCompileInputs.cache
 C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\obj\Debug\PersonQuiz.exe
 C:\Users\hiro2\OneDrive\바탕 화면\c#\PersonQuiz\PersonQuiz\obj\Debug\PersonQuiz.pdb
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\bin\Debug\PersonQuiz.exe.config
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\bin\Debug\PersonQuiz.exe
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\bin\Debug\PersonQuiz.pdb
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.csproj.AssemblyReference.cache
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.Form1.resources
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.Properties.Resources.resources
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.csproj.GenerateResource.cache
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.exe
+C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.pdb
