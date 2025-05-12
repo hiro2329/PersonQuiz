@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.pictureBox = new System.Windows.Forms.PictureBox();
             this.answerTextBox = new System.Windows.Forms.TextBox();
             this.submitButton = new System.Windows.Forms.Button();
@@ -36,78 +37,101 @@
             this.titleLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).BeginInit();
             this.SuspendLayout();
-
-            // Form1
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(500, 550);
-            this.BackColor = System.Drawing.Color.FromArgb(245, 247, 250); // 밝은 배경
-            this.Font = new System.Drawing.Font("맑은 고딕", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.MaximizeBox = false;
-            this.Text = "인물 퀴즈";
-
-            // titleLabel
-            this.titleLabel.Text = "인물 퀴즈";
-            this.titleLabel.Font = new System.Drawing.Font("맑은 고딕", 20F, System.Drawing.FontStyle.Bold);
-            this.titleLabel.ForeColor = System.Drawing.Color.FromArgb(44, 62, 80);
-            this.titleLabel.AutoSize = true;
-            this.titleLabel.Location = new System.Drawing.Point(170, 15);
-            this.Controls.Add(this.titleLabel);
-
+            // 
             // pictureBox
+            // 
+            this.pictureBox.BackColor = System.Drawing.Color.White;
+            this.pictureBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.pictureBox.Location = new System.Drawing.Point(50, 60);
+            this.pictureBox.Name = "pictureBox";
             this.pictureBox.Size = new System.Drawing.Size(400, 260);
             this.pictureBox.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.pictureBox.BackColor = System.Drawing.Color.White;
-
+            this.pictureBox.TabIndex = 1;
+            this.pictureBox.TabStop = false;
+            // 
             // answerTextBox
-            this.answerTextBox.Location = new System.Drawing.Point(50, 340);
-            this.answerTextBox.Size = new System.Drawing.Size(300, 25);
+            // 
             this.answerTextBox.Font = new System.Drawing.Font("맑은 고딕", 11F);
-
+            this.answerTextBox.Location = new System.Drawing.Point(50, 340);
+            this.answerTextBox.Name = "answerTextBox";
+            this.answerTextBox.Size = new System.Drawing.Size(300, 27);
+            this.answerTextBox.TabIndex = 2;
+            // 
             // submitButton
-            this.submitButton.Location = new System.Drawing.Point(370, 338);
-            this.submitButton.Size = new System.Drawing.Size(80, 30);
-            this.submitButton.Text = "제출";
-            this.submitButton.Font = new System.Drawing.Font("맑은 고딕", 11F, System.Drawing.FontStyle.Bold);
-            this.submitButton.BackColor = System.Drawing.Color.FromArgb(52, 152, 219);
-            this.submitButton.ForeColor = System.Drawing.Color.White;
-            this.submitButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.submitButton.FlatAppearance.BorderSize = 0;
+            // 
+            this.submitButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(52)))), ((int)(((byte)(152)))), ((int)(((byte)(219)))));
             this.submitButton.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.submitButton.FlatAppearance.BorderSize = 0;
+            this.submitButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.submitButton.Font = new System.Drawing.Font("맑은 고딕", 11F, System.Drawing.FontStyle.Bold);
+            this.submitButton.ForeColor = System.Drawing.Color.White;
+            this.submitButton.Location = new System.Drawing.Point(370, 338);
+            this.submitButton.Name = "submitButton";
+            this.submitButton.Size = new System.Drawing.Size(80, 30);
+            this.submitButton.TabIndex = 3;
+            this.submitButton.Text = "제출";
+            this.submitButton.UseVisualStyleBackColor = false;
             this.submitButton.Click += new System.EventHandler(this.SubmitButton_Click);
-
+            // 
             // resultLabel
-            this.resultLabel.Location = new System.Drawing.Point(50, 380);
-            this.resultLabel.Size = new System.Drawing.Size(400, 30);
+            // 
             this.resultLabel.Font = new System.Drawing.Font("맑은 고딕", 11F, System.Drawing.FontStyle.Bold);
-            this.resultLabel.ForeColor = System.Drawing.Color.FromArgb(41, 128, 185);
+            this.resultLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(128)))), ((int)(((byte)(185)))));
+            this.resultLabel.Location = new System.Drawing.Point(50, 380);
+            this.resultLabel.Name = "resultLabel";
+            this.resultLabel.Size = new System.Drawing.Size(400, 30);
+            this.resultLabel.TabIndex = 4;
             this.resultLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-
+            // 
             // nextButton
-            this.nextButton.Location = new System.Drawing.Point(200, 430);
-            this.nextButton.Size = new System.Drawing.Size(100, 35);
-            this.nextButton.Text = "다음";
-            this.nextButton.Font = new System.Drawing.Font("맑은 고딕", 11F, System.Drawing.FontStyle.Bold);
-            this.nextButton.BackColor = System.Drawing.Color.FromArgb(39, 174, 96);
-            this.nextButton.ForeColor = System.Drawing.Color.White;
-            this.nextButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.nextButton.FlatAppearance.BorderSize = 0;
+            // 
+            this.nextButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(174)))), ((int)(((byte)(96)))));
             this.nextButton.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.nextButton.FlatAppearance.BorderSize = 0;
+            this.nextButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.nextButton.Font = new System.Drawing.Font("맑은 고딕", 11F, System.Drawing.FontStyle.Bold);
+            this.nextButton.ForeColor = System.Drawing.Color.White;
+            this.nextButton.Location = new System.Drawing.Point(200, 430);
+            this.nextButton.Name = "nextButton";
+            this.nextButton.Size = new System.Drawing.Size(100, 35);
+            this.nextButton.TabIndex = 5;
+            this.nextButton.Text = "다음";
+            this.nextButton.UseVisualStyleBackColor = false;
             this.nextButton.Click += new System.EventHandler(this.NextButton_Click);
-
-            // Controls
+            // 
+            // titleLabel
+            // 
+            this.titleLabel.AutoSize = true;
+            this.titleLabel.Font = new System.Drawing.Font("맑은 고딕", 20F, System.Drawing.FontStyle.Bold);
+            this.titleLabel.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(44)))), ((int)(((byte)(62)))), ((int)(((byte)(80)))));
+            this.titleLabel.Location = new System.Drawing.Point(170, 15);
+            this.titleLabel.Name = "titleLabel";
+            this.titleLabel.Size = new System.Drawing.Size(134, 37);
+            this.titleLabel.TabIndex = 0;
+            this.titleLabel.Text = "인물 퀴즈";
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 17F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(247)))), ((int)(((byte)(250)))));
+            this.ClientSize = new System.Drawing.Size(500, 550);
+            this.Controls.Add(this.titleLabel);
             this.Controls.Add(this.pictureBox);
             this.Controls.Add(this.answerTextBox);
             this.Controls.Add(this.submitButton);
             this.Controls.Add(this.resultLabel);
             this.Controls.Add(this.nextButton);
-
+            this.Font = new System.Drawing.Font("맑은 고딕", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
+            this.Name = "Form1";
+            this.Text = "인물 퀴즈";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
+
         }
 
         #endregion

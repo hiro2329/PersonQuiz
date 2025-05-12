@@ -18,3 +18,13 @@ C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.cs
 C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.csproj.CoreCompileInputs.cache
 C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.exe
 C:\Users\KOSTA\Desktop\299기\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.pdb
+C:\Users\KOSTA\Downloads\PersonQuiz-main\PersonQuiz-main\PersonQuiz\bin\Debug\PersonQuiz.exe.config
+C:\Users\KOSTA\Downloads\PersonQuiz-main\PersonQuiz-main\PersonQuiz\bin\Debug\PersonQuiz.exe
+C:\Users\KOSTA\Downloads\PersonQuiz-main\PersonQuiz-main\PersonQuiz\bin\Debug\PersonQuiz.pdb
+C:\Users\KOSTA\Downloads\PersonQuiz-main\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.csproj.AssemblyReference.cache
+C:\Users\KOSTA\Downloads\PersonQuiz-main\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.Form1.resources
+C:\Users\KOSTA\Downloads\PersonQuiz-main\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.Properties.Resources.resources
+C:\Users\KOSTA\Downloads\PersonQuiz-main\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.csproj.GenerateResource.cache
+C:\Users\KOSTA\Downloads\PersonQuiz-main\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.csproj.CoreCompileInputs.cache
+C:\Users\KOSTA\Downloads\PersonQuiz-main\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.exe
+C:\Users\KOSTA\Downloads\PersonQuiz-main\PersonQuiz-main\PersonQuiz\obj\Debug\PersonQuiz.pdb
